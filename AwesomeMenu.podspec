@@ -8,4 +8,5 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'git@github.com:levey/AwesomeMenu.git', :tag => '2.0.0'}
   spec.source_files = '/AwesomeMenu/AwesomeMenu/*'
   spec.requires_arc = true
+  spec.static_frameworks = true
 end
