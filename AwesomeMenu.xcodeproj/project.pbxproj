@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3BF884A52175CC1100392896 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BF884A42175CC1100392896 /* Media.xcassets */; };
 		5C03649D1488A5D4000CE00F /* bg-addbutton-highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C03648A1488A5D4000CE00F /* bg-addbutton-highlighted.png */; };
 		5C03649E1488A5D4000CE00F /* bg-addbutton-highlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C03648B1488A5D4000CE00F /* bg-addbutton-highlighted@2x.png */; };
 		5C03649F1488A5D4000CE00F /* bg-addbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C03648C1488A5D4000CE00F /* bg-addbutton.png */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3BF884A42175CC1100392896 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		5C03648A1488A5D4000CE00F /* bg-addbutton-highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-addbutton-highlighted.png"; sourceTree = "<group>"; };
 		5C03648B1488A5D4000CE00F /* bg-addbutton-highlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-addbutton-highlighted@2x.png"; sourceTree = "<group>"; };
 		5C03648C1488A5D4000CE00F /* bg-addbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-addbutton.png"; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				5C5949C7153ACC510023B034 /* AwesomeMenu.m */,
 				5C5949C8153ACC510023B034 /* AwesomeMenuItem.h */,
 				5C5949C9153ACC510023B034 /* AwesomeMenuItem.m */,
+				3BF884A42175CC1100392896 /* Media.xcassets */,
 			);
 			path = AwesomeMenu;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				5C3FF36E1486564E0098EE93 /* InfoPlist.strings in Resources */,
 				5C03649D1488A5D4000CE00F /* bg-addbutton-highlighted.png in Resources */,
 				5C03649E1488A5D4000CE00F /* bg-addbutton-highlighted@2x.png in Resources */,
+				3BF884A52175CC1100392896 /* Media.xcassets in Resources */,
 				5C03649F1488A5D4000CE00F /* bg-addbutton.png in Resources */,
 				5C0364A01488A5D4000CE00F /* bg-addbutton@2x.png in Resources */,
 				5C0364A11488A5D4000CE00F /* bg-menuitem-highlighted.png in Resources */,
